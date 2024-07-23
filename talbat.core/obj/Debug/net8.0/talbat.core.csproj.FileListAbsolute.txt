@@ -1,0 +1,13 @@
+D:\API\course1\talabat\talbat.core\bin\Debug\net8.0\talbat.core.deps.json
+D:\API\course1\talabat\talbat.core\bin\Debug\net8.0\talbat.core.runtimeconfig.json
+D:\API\course1\talabat\talbat.core\bin\Debug\net8.0\talbat.core.dll
+D:\API\course1\talabat\talbat.core\bin\Debug\net8.0\talbat.core.pdb
+D:\API\course1\talabat\talbat.core\obj\Debug\net8.0\talbat.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\course1\talabat\talbat.core\obj\Debug\net8.0\talbat.core.AssemblyInfoInputs.cache
+D:\API\course1\talabat\talbat.core\obj\Debug\net8.0\talbat.core.AssemblyInfo.cs
+D:\API\course1\talabat\talbat.core\obj\Debug\net8.0\talbat.core.csproj.CoreCompileInputs.cache
+D:\API\course1\talabat\talbat.core\obj\Debug\net8.0\talbat.core.dll
+D:\API\course1\talabat\talbat.core\obj\Debug\net8.0\refint\talbat.core.dll
+D:\API\course1\talabat\talbat.core\obj\Debug\net8.0\talbat.core.pdb
+D:\API\course1\talabat\talbat.core\obj\Debug\net8.0\talbat.core.genruntimeconfig.cache
+D:\API\course1\talabat\talbat.core\obj\Debug\net8.0\ref\talbat.core.dll

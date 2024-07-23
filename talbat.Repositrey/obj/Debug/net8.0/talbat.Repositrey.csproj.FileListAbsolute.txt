@@ -1,0 +1,17 @@
+D:\API\course1\talabat\talbat.Repositrey\bin\Debug\net8.0\talbat.Repositrey.deps.json
+D:\API\course1\talabat\talbat.Repositrey\bin\Debug\net8.0\talbat.Repositrey.dll
+D:\API\course1\talabat\talbat.Repositrey\bin\Debug\net8.0\talbat.Repositrey.pdb
+D:\API\course1\talabat\talbat.Repositrey\bin\Debug\net8.0\talbat.core.dll
+D:\API\course1\talabat\talbat.Repositrey\bin\Debug\net8.0\talbat.core.pdb
+D:\API\course1\talabat\talbat.Repositrey\obj\Debug\net8.0\talbat.Repositrey.csproj.AssemblyReference.cache
+D:\API\course1\talabat\talbat.Repositrey\obj\Debug\net8.0\talbat.Repositrey.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\course1\talabat\talbat.Repositrey\obj\Debug\net8.0\talbat.Repositrey.AssemblyInfoInputs.cache
+D:\API\course1\talabat\talbat.Repositrey\obj\Debug\net8.0\talbat.Repositrey.AssemblyInfo.cs
+D:\API\course1\talabat\talbat.Repositrey\obj\Debug\net8.0\talbat.Repositrey.csproj.CoreCompileInputs.cache
+D:\API\course1\talabat\talbat.Repositrey\obj\Debug\net8.0\talbat.R.CA248493.Up2Date
+D:\API\course1\talabat\talbat.Repositrey\obj\Debug\net8.0\talbat.Repositrey.dll
+D:\API\course1\talabat\talbat.Repositrey\obj\Debug\net8.0\refint\talbat.Repositrey.dll
+D:\API\course1\talabat\talbat.Repositrey\obj\Debug\net8.0\talbat.Repositrey.pdb
+D:\API\course1\talabat\talbat.Repositrey\obj\Debug\net8.0\ref\talbat.Repositrey.dll
+D:\API\course1\talabat\talbat.Repositrey\bin\Debug\net8.0\talbat.Repositrey.runtimeconfig.json
+D:\API\course1\talabat\talbat.Repositrey\obj\Debug\net8.0\talbat.Repositrey.genruntimeconfig.cache
